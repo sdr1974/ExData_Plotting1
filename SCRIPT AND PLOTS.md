@@ -41,3 +41,9 @@ electric.power <- select(electric.power, -Date, -Time)
 hist(electric.power$Global_active_power, col = "red", main = "Global Active Power", xlab = "Global Active Power (kilowatts)")
 ```
 
+
+
+
+
+
+
